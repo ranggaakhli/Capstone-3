@@ -26,7 +26,8 @@ Source:
 
 **Problem Statement**
 
-**Problem statement: How to expand the XXX company business interest in Daegu apartment by having a machine learning sale prediction in Daegu?** 
+**Problem statement: How to expand the XXX company business interest in Daegu apartment by having a machine learning sale 
+price prediction in Daegu?** 
 
 
 
